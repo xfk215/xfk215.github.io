@@ -1,189 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/16107.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <tags>
-        <tag>hello world!</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>与棋之缘(中国象棋)</title>
-    <url>/posts/2458.html</url>
-    <content><![CDATA[<p>棋樂无穷</p>
-<span id="more"></span>
-<h2 id="杂记"><a href="#杂记" class="headerlink" title="杂记"></a>杂记</h2><p>上大学前我基本上只有电视这一电子设备可看。</p>
-<p>动画片，影视，cctv，很多栏目早已看过多次。</p>
-<p>后来，装了有线，不是锅子了。</p>
-<p>多了几个频道，我开始看游戏频道，和棋牌频道</p>
-<p>游戏频道中算是让我看清了一些游戏，如：杀戮尖塔，守望先锋，300，刀塔……</p>
-<p>我非常痴迷，棋牌频道中中国象棋的竞技</p>
-<p>认识到了一些大师的名号(贴于文章末)</p>
-<p>整上了一盒象棋，摆上跟着推演乐在其中<br>跟学到了走棋的叫法：炮二平五，马八进七……</p>
-<p>上大学了,学习计算机知识，我沉迷其中，探索各种技术，软件，参加竞赛等，不闻棋道。</p>
-<p>大二暑假，与表弟准四年级摆上棋局，叫他菜就多练。</p>
-<p>棋局结束，我在抖音刷到了象棋解说，十分激动。</p>
-<p>关注了喜爱的特级大师 少年姜子牙，许仙，许银川。</p>
-<p>老武  ， 大板牙子 这样有活的解说<br>“ 你猜怎么着？进屋看看就知道了  棋局伊始，双方各自点上大前门 当场妈糊稀  那是娇躯一颤啊  掀翻棋盘，拂袖而去”</p>
-<p>板牙淋漓的解说</p>
-<p>不凡，仙居….解说</p>
-<p>还有很多高手</p>
-<p>我又开始对象棋越发的痴迷，在电脑上找到了很多棋谱网站，如象棋谱，永乐象棋谱，南山象棋谱，</p>
-<p>学了计算机，对棋软软件也格外感兴趣，知道了，皮卡鱼，旋风还有各种其他引擎</p>
-<p>用皮卡鱼,鲨鱼象棋来记谱</p>
-<p>皮卡鱼官网中说明使用到的min-max算法还有AB剪枝</p>
-<p>刷到象棋，也特别感谢当时比较火的凡人修仙传，虽然没看过，因为在B站，我经常在腾讯的动漫。</p>
-<p>引用<br>吾幼时好棋，名震乡野， 人皆谓神童，年岁稍长，遇一山野老道，三天对弈，终得一胜，老道愿赌服输，施展法术，通天遁地，吾顿生神往，遂弃棋修道，然吾天赋一般，只求兢兢业业苦心钻研，不惜远家人、抛爱侣、弃友人、漂泊四海无所依绊，几经险境，半生贫苦，老来方有定所，可惜时日无多，近来常思，人生百年，蜉蝣一日，长生与我何有哉，不过又入樊笼尔，不若二三好友奕棋饮酒，良缘佳侣，人间携手，风光百年，同归尘土，然吾问道之心终归难改，纵使蹉跎一生，也要争那一线天机，只因幼时便知，人生如棋，落子无悔！-《凡人修仙传》</p>
-<h2 id="名号"><a href="#名号" class="headerlink" title="名号"></a>名号</h2><p>男子象棋特大和象棋大师雅号、外号或绰号：</p>
-<p>胡荣华：胡司令、棋坛常青树、棋坛不死鸟</p>
-<p>杨官璘：东方魔叔、魔叔、残棋圣手、混世魔王</p>
-<p>许银川：少年姜太公、许仙、鬼魅残功</p>
-<p>吕钦：羊城少帅、小吕飞刀、快马飞刀</p>
-<p>赵国荣：东北虎、推土机</p>
-<p>李来群：智多星、巨蟒缠身</p>
-<p>柳大华：东方电脑、楚霸王</p>
-<p>王天一：外星人</p>
-<p>郑惟桐：蜀山少侠</p>
-<p>王嘉良：东北虎 </p>
-<p>蒋川：玉面神佛、校长、棋坛韩红</p>
-<p>洪智：洪天王、乱战天王、流浪棋王</p>
-<p>汪洋：白面书生</p>
-<p>赵鑫鑫：赵六金、六脉神剑</p>
-<p>谢靖：小司令、谢和和</p>
-<p>孙勇征：棋天大圣</p>
-<p>徐天红：笑面佛、笑面虎</p>
-<p>于幼华：拼命三郎</p>
-<p>陶汉明：长白虎、陶公子</p>
-<p>刘殿中：北昆仑、五七干校校长</p>
-<p>徐超：姑苏飞鹰</p>
-<p>卜凤波：辽东第一高手、爱兵模范</p>
-<p>傅光明：慢国手</p>
-<p>阎文清：布局专家、布局圣手</p>
-<p>苗利明：上士哥、燕赵小龙</p>
-<p>刘明：火钳</p>
-<p>程进超：江湖妖刀</p>
-<p>郝继超：龙江大郎</p>
-<p>黄竹风：虎贲少将</p>
-<p>赵金成：功夫熊猫</p>
-<p>申鹏：大锤</p>
-<p>程鸣：刀斧手</p>
-<p>曹岩磊：弃子大师</p>
-<p>陆伟韬：帽子哥</p>
-<p>赵玮：炸蛇、咋舌</p>
-<p>孙浩宇：孙大刀</p>
-<p>金波：大力神</p>
-<p>刘忆慈：刘仙人</p>
-<p>李义庭：小神童</p>
-<p>蔡福如：小霸王、羊城小霸王  </p>
-<p>徐天利：双枪将</p>
-<p>李雪松：金钟罩、铁布衫、防守专家</p>
-<p>刘殿忠：北昆仑</p>
-<p>孟立国：杀象能手</p>
-<p>陈孝堃：小诸葛、飞刀兵工厂</p>
-<p>苗永鹏：苗大侠</p>
-<p>谢业枧：顺炮王子</p>
-<p>谢岿：顺炮小王子</p>
-<p>王斌：江南才俊 </p>
-<p>庄玉庭：十轮王、怪刀手                      </p>
-<p>万春林：沪上姜维、阿凡提</p>
-<p>钱洪发：西北棋王 </p>
-<p>李曰纯：橡皮糖</p>
-<p>宗永生：牛皮糖</p>
-<p>周小平：江湖彩霸、大胡子</p>
-<p>臧如意：妙着大师</p>
-<p>宋国强：小三毛</p>
-<p>戴荣光：江东小霸王 </p>
-<p>陈富杰：老怪</p>
-<p>何连生：醉侠</p>
-<p>郭长顺：铁门李富胜</p>
-<p>黄仕清：野战司令</p>
-<p>张申宏：张军长</p>
-<p>刘宗泽：刘师长</p>
-<p>连泽特：连长</p>
-<p>薛文强：天山剑</p>
-<p>于红木：飞刀大将军</p>
-<p>宗永生：牛皮糖</p>
-<p>李鸿嘉：三个火枪手</p>
-<p>刘俊达：棋谱打印机</p>
-<p>陈栋：皮鞋大师</p>
-<p>邬正伟：铁四台</p>
-<p>杨德琪：杨仙人</p>
-<p>孟繁睿：小魔童</p>
-<p>马宽：和棋马</p>
-<p>金松：完颜松</p>
-<p>女子象棋特大和象棋大师雅号、外号或绰号：</p>
-<p>唐丹：超级丹</p>
-<p>胡明：女版胡司令、六冠王</p>
-<p>张国凤：红颜杀手</p>
-<p>时凤兰：中山不败</p>
-<p>梁妍婷：象棋一枝花</p>
-<p>唐思楠：安吉玉麒麟</p>
-<p>刚秋英：小刚炮</p>
-<p>文静：白娘子</p>
-<p>左文静：棋坛左冷禅</p>
-<p>何媛：淘气</p>
-<p>单欣：给九一上课的单老师 </p>
-<p>张婷婷: 顺炮公主</p>
-<p>作者：烂柯神机2023 <a href="https://www.bilibili.com/read/cv20956069/">https://www.bilibili.com/read/cv20956069/</a> 出处：bilibili</p>
-<h2 id="重拾棋谱-，-成败悟道"><a href="#重拾棋谱-，-成败悟道" class="headerlink" title="重拾棋谱 ， 成败悟道"></a>重拾棋谱 ， 成败悟道</h2>]]></content>
-      <tags>
-        <tag>趣</tag>
-        <tag>象棋</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《象棋布局飞刀 1.1》</title>
-    <url>/posts/32825.html</url>
-    <content><![CDATA[<h2 id="第一章-顺炮直车对横车"><a href="#第一章-顺炮直车对横车" class="headerlink" title="第一章  顺炮直车对横车"></a>第一章  顺炮直车对横车</h2><span id="more"></span>
-
-
-<h3 id="第一局-红过河车-黑进肋车捉炮-红弃车入局"><a href="#第一局-红过河车-黑进肋车捉炮-红弃车入局" class="headerlink" title="第一局  红过河车  黑进肋车捉炮(红弃车入局)"></a>第一局  红过河车  黑进肋车捉炮(红弃车入局)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 车二进六</span><br><span class="line">     车９平４</span><br><span class="line">  5. 车二平三</span><br><span class="line">     车４进７</span><br><span class="line">  6. 马八进七</span><br><span class="line">     炮５平４</span><br><span class="line">  7. 炮八进二</span><br><span class="line">     车４退３</span><br><span class="line">  8. 兵七进一</span><br><span class="line">     车４平３</span><br><span class="line">  9. 炮八平九</span><br><span class="line">     马２进１</span><br><span class="line">  10. 车九平八</span><br><span class="line">     炮２平３</span><br><span class="line">  11. 马七进八</span><br><span class="line">     车３进４</span><br><span class="line">  12. 马八进九</span><br><span class="line">     车３平２</span><br><span class="line">  13. 马九进七</span><br><span class="line">     马１进２</span><br><span class="line">  14. 车三进一</span><br><span class="line">     象３进５</span><br><span class="line">  15. 炮五进四</span><br><span class="line">     士４进５</span><br><span class="line">  16. 炮九平三</span><br><span class="line">     象７进９</span><br><span class="line">  17. 车三平一</span><br><span class="line">     车１进２</span><br><span class="line">  18. 炮三进五</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h3 id="第二局-红边马-黑边马-红运子取势"><a href="#第二局-红边马-黑边马-红运子取势" class="headerlink" title="第二局  红边马  黑边马(红运子取势)"></a>第二局  红边马  黑边马(红运子取势)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进九</span><br><span class="line">     马２进１</span><br><span class="line">  5. 炮八平七</span><br><span class="line">     车９平４</span><br><span class="line">  6. 车九平八</span><br><span class="line">     车１平２</span><br><span class="line">  7. 车二进六</span><br><span class="line">     卒１进１</span><br><span class="line">  8. 车二平三</span><br><span class="line">     车４进３</span><br><span class="line">  9. 兵三进一</span><br><span class="line">     马１进２</span><br><span class="line">  10. 炮七平八</span><br><span class="line">     炮２进５</span><br><span class="line">  11. 车八进二</span><br><span class="line">     炮５平２</span><br><span class="line">  12. 马三进四</span><br><span class="line">     车４平６</span><br><span class="line">  13. 兵三进一</span><br><span class="line">     炮２进５</span><br><span class="line">  14. 兵三平四</span><br><span class="line">     车２进２</span><br><span class="line">  15. 马四进二</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h3 id="第三局-红边马-黑正马-黑先弃后取"><a href="#第三局-红边马-黑正马-黑先弃后取" class="headerlink" title="第三局  红边马  黑正马(黑先弃后取)"></a>第三局  红边马  黑正马(黑先弃后取)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进九</span><br><span class="line">     马２进３</span><br><span class="line">  5. 炮八平七</span><br><span class="line">     车１平２</span><br><span class="line">  6. 兵七进一</span><br><span class="line">     车９平４</span><br><span class="line">  7. 兵七进一</span><br><span class="line">     卒５进１</span><br><span class="line">  8. 兵七平六</span><br><span class="line">     车４进３</span><br><span class="line">  9. 炮七进五</span><br><span class="line">     马７进５</span><br><span class="line">  10. 炮七进一</span><br><span class="line">     炮２进５</span><br><span class="line">  11. 炮七平一</span><br><span class="line">     炮２平７</span><br><span class="line">  12. 车二进二</span><br><span class="line">     炮７平１</span><br><span class="line">  13. 车九进二</span><br><span class="line">     马５进３</span><br><span class="line">  14. 仕四进五</span><br><span class="line">     车２进１</span><br><span class="line">  15. 炮一进一</span><br><span class="line">     车２平６</span><br><span class="line">  *</span><br></pre></td></tr></table></figure>
-
-<h3 id="第四局-红上右仕-黑横车占肋-红弃马取势"><a href="#第四局-红上右仕-黑横车占肋-红弃马取势" class="headerlink" title="第四局  红上右仕  黑横车占肋(红弃马取势)"></a>第四局  红上右仕  黑横车占肋(红弃马取势)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 仕四进五</span><br><span class="line">     车９平４</span><br><span class="line">  5. 车二进六</span><br><span class="line">     车４进７</span><br><span class="line">  6. 马八进九</span><br><span class="line">     车４平２</span><br><span class="line">  7. 车九平八</span><br><span class="line">     车２进１</span><br><span class="line">  8. 马九退八</span><br><span class="line">     炮２进７</span><br><span class="line">  9. 车二平三</span><br><span class="line">     马７退９</span><br><span class="line">  10. 炮五进四</span><br><span class="line">     士４进５</span><br><span class="line">  11. 炮八进六</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-
-<h3 id="第五局-红直车正马两头蛇-黑双横车正马-一-【黑兑子抢先】"><a href="#第五局-红直车正马两头蛇-黑双横车正马-一-【黑兑子抢先】" class="headerlink" title="第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】"></a>第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     车９平４</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     马２进３</span><br><span class="line">  6. 兵七进一</span><br><span class="line">     车１进１</span><br><span class="line">  7. 炮八进二</span><br><span class="line">     车１平３</span><br><span class="line">  8. 车九进二</span><br><span class="line">     卒５进１</span><br><span class="line">  9. 马七进六</span><br><span class="line">     卒３进１</span><br><span class="line">  10. 炮五平六</span><br><span class="line">     卒５进１</span><br><span class="line">  11. 炮六进六</span><br><span class="line">     卒５平４</span><br><span class="line">  12. 相三进五</span><br><span class="line">     车３平４</span><br><span class="line">  13. 兵七进一</span><br><span class="line">     卒４进１</span><br><span class="line">  14. 仕四进五</span><br><span class="line">     卒４平５</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h3 id="第六局-红直车正马两头蛇-黑双横车正马-二-【红巧谋黑子】"><a href="#第六局-红直车正马两头蛇-黑双横车正马-二-【红巧谋黑子】" class="headerlink" title="第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】"></a>第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     马２进３</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     车９平４</span><br><span class="line">  6. 兵七进一</span><br><span class="line">     车１进１</span><br><span class="line">  7. 仕六进五</span><br><span class="line">     车１平３</span><br><span class="line">  8. 马三进四</span><br><span class="line">     卒３进１</span><br><span class="line">  9. 兵七进一</span><br><span class="line">     马３进４</span><br><span class="line">  10. 马四进六</span><br><span class="line">     车３进３</span><br><span class="line">  11. 马六进五</span><br><span class="line">     车３进３</span><br><span class="line">  12. 车二进二</span><br><span class="line">     士４进５</span><br><span class="line">  13. 马五进三</span><br><span class="line">     将５平４</span><br><span class="line">  14. 炮五平六</span><br><span class="line">     车４平３</span><br><span class="line">  15. 炮八进二</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h3 id="第七局-红直车正马进三兵-黑肋车占兵线-红”三把手”做杀"><a href="#第七局-红直车正马进三兵-黑肋车占兵线-红”三把手”做杀" class="headerlink" title="第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)"></a>第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     车９平４</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     车４进５</span><br><span class="line">  6. 马三进四</span><br><span class="line">     车４退１</span><br><span class="line">  7. 马四进五</span><br><span class="line">     马７进５</span><br><span class="line">  8. 炮五进四</span><br><span class="line">     士４进５</span><br><span class="line">  9. 相七进五</span><br><span class="line">     卒９进１</span><br><span class="line">  10. 炮八进七</span><br><span class="line">     车１平２</span><br><span class="line">  11. 车九平八</span><br><span class="line">     炮２进４</span><br><span class="line">  12. 仕六进五</span><br><span class="line">     车４进１</span><br><span class="line">  13. 车二进五</span><br><span class="line">     车４平３</span><br><span class="line">  14. 车二平六</span><br><span class="line">     车３进１</span><br><span class="line">  15. 帅五平六</span><br><span class="line">     象３进１</span><br><span class="line">  16. 车八进三</span><br><span class="line">     车２平３</span><br><span class="line">  17. 车八平六</span><br><span class="line">     前车平２</span><br><span class="line">  18. 前车进四</span><br><span class="line">     车３平４</span><br><span class="line">  19. 车六进六</span><br><span class="line">  *</span><br></pre></td></tr></table></figure>
-
-<h3 id="第八局-红五六炮正马-黑正马-红巧谋黑子"><a href="#第八局-红五六炮正马-黑正马-红巧谋黑子" class="headerlink" title="第八局  红五六炮正马  黑正马(红巧谋黑子)"></a>第八局  红五六炮正马  黑正马(红巧谋黑子)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 炮八平六</span><br><span class="line">     马２进３</span><br><span class="line">  5. 马八进七</span><br><span class="line">     车１平２</span><br><span class="line">  6. 车九平八</span><br><span class="line">     炮２进４</span><br><span class="line">  7. 炮六进五</span><br><span class="line">     车９平７</span><br><span class="line">  8. 车二进六</span><br><span class="line">     马７退９</span><br><span class="line">  9. 车二退二</span><br><span class="line">     车７平４</span><br><span class="line">  10. 炮六退三</span><br><span class="line">     卒３进１</span><br><span class="line">  11. 炮六平八</span><br><span class="line">     车４进６</span><br><span class="line">  12. 车八进三</span><br><span class="line">     车４平３</span><br><span class="line">  13. 车二进四</span><br><span class="line">     车２进４</span><br><span class="line">  14. 车二平一</span><br><span class="line">     卒３进１</span><br><span class="line">  15. 兵七进一</span><br><span class="line">     车３退２</span><br><span class="line">  16. 车一平七</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h3 id="第九局-红正马进三兵-黑边马-黑运子取势"><a href="#第九局-红正马进三兵-黑边马-黑运子取势" class="headerlink" title="第九局  红正马进三兵  黑边马(黑运子取势)"></a>第九局  红正马进三兵  黑边马(黑运子取势)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     车９平４</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     马２进１</span><br><span class="line">  6. 仕六进五</span><br><span class="line">     炮２平３</span><br><span class="line">  7. 车九平八</span><br><span class="line">     车４进４</span><br><span class="line">  8. 炮五平四</span><br><span class="line">     车４平７</span><br><span class="line">  9. 马三进二</span><br><span class="line">     车１平２</span><br><span class="line">  10. 炮八进四</span><br><span class="line">     士４进５</span><br><span class="line">  11. 相七进五</span><br><span class="line">     车７退１</span><br><span class="line">  12. 马二进一</span><br><span class="line">     马７进９</span><br><span class="line">  13. 车二进六</span><br><span class="line">     炮５平７</span><br><span class="line">  14. 炮八平五</span><br><span class="line">     象３进５</span><br><span class="line">  15. 车八进九</span><br><span class="line">     马１退２</span><br><span class="line">  16. 车二平一</span><br><span class="line">     车７进５</span><br><span class="line">  17. 炮五平九</span><br><span class="line">     卒３进１</span><br><span class="line">  18. 车一退二</span><br><span class="line">     车７退５</span><br><span class="line">  19. 车一平八</span><br><span class="line">     马２进１</span><br><span class="line">  20. 炮九平五</span><br><span class="line">     车７平５</span><br><span class="line">  21. 车八平五</span><br><span class="line">     车５平４</span><br><span class="line">  22. 兵七进一</span><br><span class="line">     炮７平８</span><br><span class="line">  23. 炮四平二</span><br><span class="line">     卒７进１</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<ul>
-<li>葛维蒲</li>
-</ul>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>象棋</tag>
-        <tag>顺炮</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>使用Git上传项目到github仓库</title>
     <url>/posts/58956.html</url>
     <content><![CDATA[<p>Git 是一个免费的开源 分布式版本控制系统，旨在快速高效地处理从小型到大型的所有项目。</p>
@@ -335,6 +152,191 @@
       <tags>
         <tag>git</tag>
         <tag>技术栈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《象棋布局飞刀 1.1》</title>
+    <url>/posts/32825.html</url>
+    <content><![CDATA[<h2 id="第一章-顺炮直车对横车"><a href="#第一章-顺炮直车对横车" class="headerlink" title="第一章  顺炮直车对横车"></a>第一章  顺炮直车对横车</h2><span id="more"></span>
+
+
+<h3 id="第一局-红过河车-黑进肋车捉炮-红弃车入局"><a href="#第一局-红过河车-黑进肋车捉炮-红弃车入局" class="headerlink" title="第一局  红过河车  黑进肋车捉炮(红弃车入局)"></a>第一局  红过河车  黑进肋车捉炮(红弃车入局)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 车二进六</span><br><span class="line">     车９平４</span><br><span class="line">  5. 车二平三</span><br><span class="line">     车４进７</span><br><span class="line">  6. 马八进七</span><br><span class="line">     炮５平４</span><br><span class="line">  7. 炮八进二</span><br><span class="line">     车４退３</span><br><span class="line">  8. 兵七进一</span><br><span class="line">     车４平３</span><br><span class="line">  9. 炮八平九</span><br><span class="line">     马２进１</span><br><span class="line">  10. 车九平八</span><br><span class="line">     炮２平３</span><br><span class="line">  11. 马七进八</span><br><span class="line">     车３进４</span><br><span class="line">  12. 马八进九</span><br><span class="line">     车３平２</span><br><span class="line">  13. 马九进七</span><br><span class="line">     马１进２</span><br><span class="line">  14. 车三进一</span><br><span class="line">     象３进５</span><br><span class="line">  15. 炮五进四</span><br><span class="line">     士４进５</span><br><span class="line">  16. 炮九平三</span><br><span class="line">     象７进９</span><br><span class="line">  17. 车三平一</span><br><span class="line">     车１进２</span><br><span class="line">  18. 炮三进五</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="第二局-红边马-黑边马-红运子取势"><a href="#第二局-红边马-黑边马-红运子取势" class="headerlink" title="第二局  红边马  黑边马(红运子取势)"></a>第二局  红边马  黑边马(红运子取势)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进九</span><br><span class="line">     马２进１</span><br><span class="line">  5. 炮八平七</span><br><span class="line">     车９平４</span><br><span class="line">  6. 车九平八</span><br><span class="line">     车１平２</span><br><span class="line">  7. 车二进六</span><br><span class="line">     卒１进１</span><br><span class="line">  8. 车二平三</span><br><span class="line">     车４进３</span><br><span class="line">  9. 兵三进一</span><br><span class="line">     马１进２</span><br><span class="line">  10. 炮七平八</span><br><span class="line">     炮２进５</span><br><span class="line">  11. 车八进二</span><br><span class="line">     炮５平２</span><br><span class="line">  12. 马三进四</span><br><span class="line">     车４平６</span><br><span class="line">  13. 兵三进一</span><br><span class="line">     炮２进５</span><br><span class="line">  14. 兵三平四</span><br><span class="line">     车２进２</span><br><span class="line">  15. 马四进二</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="第三局-红边马-黑正马-黑先弃后取"><a href="#第三局-红边马-黑正马-黑先弃后取" class="headerlink" title="第三局  红边马  黑正马(黑先弃后取)"></a>第三局  红边马  黑正马(黑先弃后取)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进九</span><br><span class="line">     马２进３</span><br><span class="line">  5. 炮八平七</span><br><span class="line">     车１平２</span><br><span class="line">  6. 兵七进一</span><br><span class="line">     车９平４</span><br><span class="line">  7. 兵七进一</span><br><span class="line">     卒５进１</span><br><span class="line">  8. 兵七平六</span><br><span class="line">     车４进３</span><br><span class="line">  9. 炮七进五</span><br><span class="line">     马７进５</span><br><span class="line">  10. 炮七进一</span><br><span class="line">     炮２进５</span><br><span class="line">  11. 炮七平一</span><br><span class="line">     炮２平７</span><br><span class="line">  12. 车二进二</span><br><span class="line">     炮７平１</span><br><span class="line">  13. 车九进二</span><br><span class="line">     马５进３</span><br><span class="line">  14. 仕四进五</span><br><span class="line">     车２进１</span><br><span class="line">  15. 炮一进一</span><br><span class="line">     车２平６</span><br><span class="line">  *</span><br></pre></td></tr></table></figure>
+
+<h3 id="第四局-红上右仕-黑横车占肋-红弃马取势"><a href="#第四局-红上右仕-黑横车占肋-红弃马取势" class="headerlink" title="第四局  红上右仕  黑横车占肋(红弃马取势)"></a>第四局  红上右仕  黑横车占肋(红弃马取势)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 仕四进五</span><br><span class="line">     车９平４</span><br><span class="line">  5. 车二进六</span><br><span class="line">     车４进７</span><br><span class="line">  6. 马八进九</span><br><span class="line">     车４平２</span><br><span class="line">  7. 车九平八</span><br><span class="line">     车２进１</span><br><span class="line">  8. 马九退八</span><br><span class="line">     炮２进７</span><br><span class="line">  9. 车二平三</span><br><span class="line">     马７退９</span><br><span class="line">  10. 炮五进四</span><br><span class="line">     士４进５</span><br><span class="line">  11. 炮八进六</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+<h3 id="第五局-红直车正马两头蛇-黑双横车正马-一-【黑兑子抢先】"><a href="#第五局-红直车正马两头蛇-黑双横车正马-一-【黑兑子抢先】" class="headerlink" title="第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】"></a>第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     车９平４</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     马２进３</span><br><span class="line">  6. 兵七进一</span><br><span class="line">     车１进１</span><br><span class="line">  7. 炮八进二</span><br><span class="line">     车１平３</span><br><span class="line">  8. 车九进二</span><br><span class="line">     卒５进１</span><br><span class="line">  9. 马七进六</span><br><span class="line">     卒３进１</span><br><span class="line">  10. 炮五平六</span><br><span class="line">     卒５进１</span><br><span class="line">  11. 炮六进六</span><br><span class="line">     卒５平４</span><br><span class="line">  12. 相三进五</span><br><span class="line">     车３平４</span><br><span class="line">  13. 兵七进一</span><br><span class="line">     卒４进１</span><br><span class="line">  14. 仕四进五</span><br><span class="line">     卒４平５</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="第六局-红直车正马两头蛇-黑双横车正马-二-【红巧谋黑子】"><a href="#第六局-红直车正马两头蛇-黑双横车正马-二-【红巧谋黑子】" class="headerlink" title="第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】"></a>第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     马２进３</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     车９平４</span><br><span class="line">  6. 兵七进一</span><br><span class="line">     车１进１</span><br><span class="line">  7. 仕六进五</span><br><span class="line">     车１平３</span><br><span class="line">  8. 马三进四</span><br><span class="line">     卒３进１</span><br><span class="line">  9. 兵七进一</span><br><span class="line">     马３进４</span><br><span class="line">  10. 马四进六</span><br><span class="line">     车３进３</span><br><span class="line">  11. 马六进五</span><br><span class="line">     车３进３</span><br><span class="line">  12. 车二进二</span><br><span class="line">     士４进５</span><br><span class="line">  13. 马五进三</span><br><span class="line">     将５平４</span><br><span class="line">  14. 炮五平六</span><br><span class="line">     车４平３</span><br><span class="line">  15. 炮八进二</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="第七局-红直车正马进三兵-黑肋车占兵线-红”三把手”做杀"><a href="#第七局-红直车正马进三兵-黑肋车占兵线-红”三把手”做杀" class="headerlink" title="第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)"></a>第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     车９平４</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     车４进５</span><br><span class="line">  6. 马三进四</span><br><span class="line">     车４退１</span><br><span class="line">  7. 马四进五</span><br><span class="line">     马７进５</span><br><span class="line">  8. 炮五进四</span><br><span class="line">     士４进５</span><br><span class="line">  9. 相七进五</span><br><span class="line">     卒９进１</span><br><span class="line">  10. 炮八进七</span><br><span class="line">     车１平２</span><br><span class="line">  11. 车九平八</span><br><span class="line">     炮２进４</span><br><span class="line">  12. 仕六进五</span><br><span class="line">     车４进１</span><br><span class="line">  13. 车二进五</span><br><span class="line">     车４平３</span><br><span class="line">  14. 车二平六</span><br><span class="line">     车３进１</span><br><span class="line">  15. 帅五平六</span><br><span class="line">     象３进１</span><br><span class="line">  16. 车八进三</span><br><span class="line">     车２平３</span><br><span class="line">  17. 车八平六</span><br><span class="line">     前车平２</span><br><span class="line">  18. 前车进四</span><br><span class="line">     车３平４</span><br><span class="line">  19. 车六进六</span><br><span class="line">  *</span><br></pre></td></tr></table></figure>
+
+<h3 id="第八局-红五六炮正马-黑正马-红巧谋黑子"><a href="#第八局-红五六炮正马-黑正马-红巧谋黑子" class="headerlink" title="第八局  红五六炮正马  黑正马(红巧谋黑子)"></a>第八局  红五六炮正马  黑正马(红巧谋黑子)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 炮八平六</span><br><span class="line">     马２进３</span><br><span class="line">  5. 马八进七</span><br><span class="line">     车１平２</span><br><span class="line">  6. 车九平八</span><br><span class="line">     炮２进４</span><br><span class="line">  7. 炮六进五</span><br><span class="line">     车９平７</span><br><span class="line">  8. 车二进六</span><br><span class="line">     马７退９</span><br><span class="line">  9. 车二退二</span><br><span class="line">     车７平４</span><br><span class="line">  10. 炮六退三</span><br><span class="line">     卒３进１</span><br><span class="line">  11. 炮六平八</span><br><span class="line">     车４进６</span><br><span class="line">  12. 车八进三</span><br><span class="line">     车４平３</span><br><span class="line">  13. 车二进四</span><br><span class="line">     车２进４</span><br><span class="line">  14. 车二平一</span><br><span class="line">     卒３进１</span><br><span class="line">  15. 兵七进一</span><br><span class="line">     车３退２</span><br><span class="line">  16. 车一平七</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="第九局-红正马进三兵-黑边马-黑运子取势"><a href="#第九局-红正马进三兵-黑边马-黑运子取势" class="headerlink" title="第九局  红正马进三兵  黑边马(黑运子取势)"></a>第九局  红正马进三兵  黑边马(黑运子取势)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[FEN &quot;rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1&quot;]</span><br><span class="line">  1. 炮二平五</span><br><span class="line">     炮８平５</span><br><span class="line">  2. 马二进三</span><br><span class="line">     马８进７</span><br><span class="line">  3. 车一平二</span><br><span class="line">     车９进１</span><br><span class="line">  4. 马八进七</span><br><span class="line">     车９平４</span><br><span class="line">  5. 兵三进一</span><br><span class="line">     马２进１</span><br><span class="line">  6. 仕六进五</span><br><span class="line">     炮２平３</span><br><span class="line">  7. 车九平八</span><br><span class="line">     车４进４</span><br><span class="line">  8. 炮五平四</span><br><span class="line">     车４平７</span><br><span class="line">  9. 马三进二</span><br><span class="line">     车１平２</span><br><span class="line">  10. 炮八进四</span><br><span class="line">     士４进５</span><br><span class="line">  11. 相七进五</span><br><span class="line">     车７退１</span><br><span class="line">  12. 马二进一</span><br><span class="line">     马７进９</span><br><span class="line">  13. 车二进六</span><br><span class="line">     炮５平７</span><br><span class="line">  14. 炮八平五</span><br><span class="line">     象３进５</span><br><span class="line">  15. 车八进九</span><br><span class="line">     马１退２</span><br><span class="line">  16. 车二平一</span><br><span class="line">     车７进５</span><br><span class="line">  17. 炮五平九</span><br><span class="line">     卒３进１</span><br><span class="line">  18. 车一退二</span><br><span class="line">     车７退５</span><br><span class="line">  19. 车一平八</span><br><span class="line">     马２进１</span><br><span class="line">  20. 炮九平五</span><br><span class="line">     车７平５</span><br><span class="line">  21. 车八平五</span><br><span class="line">     车５平４</span><br><span class="line">  22. 兵七进一</span><br><span class="line">     炮７平８</span><br><span class="line">  23. 炮四平二</span><br><span class="line">     卒７进１</span><br><span class="line">  *</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<ul>
+<li>葛维蒲</li>
+</ul>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>顺炮</tag>
+        <tag>象棋</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>与棋之缘(中国象棋)</title>
+    <url>/posts/2458.html</url>
+    <content><![CDATA[<p>棋樂无穷</p>
+<span id="more"></span>
+<h2 id="杂记"><a href="#杂记" class="headerlink" title="杂记"></a>杂记</h2><p>上大学前我基本上只有电视这一电子设备可看。</p>
+<p>动画片，影视，cctv，很多栏目早已看过多次。</p>
+<p>后来，装了有线，不是锅子了。</p>
+<p>多了几个频道，我开始看游戏频道，和棋牌频道</p>
+<p>游戏频道中算是让我看清了一些游戏，如：杀戮尖塔，守望先锋，300，刀塔……</p>
+<p>我非常痴迷，棋牌频道中中国象棋的竞技</p>
+<p>认识到了一些大师的名号(贴于文章末)</p>
+<p>整上了一盒象棋，摆上跟着推演乐在其中<br>跟学到了走棋的叫法：炮二平五，马八进七……</p>
+<p>上大学了,学习计算机知识，我沉迷其中，探索各种技术，软件，参加竞赛等，不闻棋道。</p>
+<p>大二暑假，与表弟准四年级摆上棋局，叫他菜就多练。</p>
+<p>棋局结束，我在抖音刷到了象棋解说，十分激动。</p>
+<p>关注了喜爱的特级大师 少年姜子牙，许仙，许银川。</p>
+<p>老武  ， 大板牙子 这样有活的解说<br>“ 你猜怎么着？进屋看看就知道了  棋局伊始，双方各自点上大前门 当场妈糊稀  那是娇躯一颤啊  掀翻棋盘，拂袖而去”</p>
+<p>板牙淋漓的解说</p>
+<p>不凡，仙居….解说</p>
+<p>还有很多高手</p>
+<p>我又开始对象棋越发的痴迷，在电脑上找到了很多棋谱网站，如象棋谱，永乐象棋谱，南山象棋谱，</p>
+<embed src='https://xqipu.bj.bcebos.com/5c9a0b11-cd1b-4bf2-8b1b-b9dc68f2ef73.svg' width='100%' style='max-width:360px' type='image/svg+xml'/>
+
+<p>学了计算机，对棋软软件也格外感兴趣，知道了，皮卡鱼，旋风还有各种其他引擎</p>
+<p>用皮卡鱼,鲨鱼象棋来记谱</p>
+<p>皮卡鱼官网中说明使用到的min-max算法还有AB剪枝</p>
+<p>刷到象棋，也特别感谢当时比较火的凡人修仙传，虽然没看过，因为在B站，我经常在腾讯的动漫。</p>
+<p>引用<br>吾幼时好棋，名震乡野， 人皆谓神童，年岁稍长，遇一山野老道，三天对弈，终得一胜，老道愿赌服输，施展法术，通天遁地，吾顿生神往，遂弃棋修道，然吾天赋一般，只求兢兢业业苦心钻研，不惜远家人、抛爱侣、弃友人、漂泊四海无所依绊，几经险境，半生贫苦，老来方有定所，可惜时日无多，近来常思，人生百年，蜉蝣一日，长生与我何有哉，不过又入樊笼尔，不若二三好友奕棋饮酒，良缘佳侣，人间携手，风光百年，同归尘土，然吾问道之心终归难改，纵使蹉跎一生，也要争那一线天机，只因幼时便知，人生如棋，落子无悔！-《凡人修仙传》</p>
+<h2 id="名号"><a href="#名号" class="headerlink" title="名号"></a>名号</h2><p>男子象棋特大和象棋大师雅号、外号或绰号：</p>
+<p>胡荣华：胡司令、棋坛常青树、棋坛不死鸟</p>
+<p>杨官璘：东方魔叔、魔叔、残棋圣手、混世魔王</p>
+<p>许银川：少年姜太公、许仙、鬼魅残功</p>
+<p>吕钦：羊城少帅、小吕飞刀、快马飞刀</p>
+<p>赵国荣：东北虎、推土机</p>
+<p>李来群：智多星、巨蟒缠身</p>
+<p>柳大华：东方电脑、楚霸王</p>
+<p>王天一：外星人</p>
+<p>郑惟桐：蜀山少侠</p>
+<p>王嘉良：东北虎 </p>
+<p>蒋川：玉面神佛、校长、棋坛韩红</p>
+<p>洪智：洪天王、乱战天王、流浪棋王</p>
+<p>汪洋：白面书生</p>
+<p>赵鑫鑫：赵六金、六脉神剑</p>
+<p>谢靖：小司令、谢和和</p>
+<p>孙勇征：棋天大圣</p>
+<p>徐天红：笑面佛、笑面虎</p>
+<p>于幼华：拼命三郎</p>
+<p>陶汉明：长白虎、陶公子</p>
+<p>刘殿中：北昆仑、五七干校校长</p>
+<p>徐超：姑苏飞鹰</p>
+<p>卜凤波：辽东第一高手、爱兵模范</p>
+<p>傅光明：慢国手</p>
+<p>阎文清：布局专家、布局圣手</p>
+<p>苗利明：上士哥、燕赵小龙</p>
+<p>刘明：火钳</p>
+<p>程进超：江湖妖刀</p>
+<p>郝继超：龙江大郎</p>
+<p>黄竹风：虎贲少将</p>
+<p>赵金成：功夫熊猫</p>
+<p>申鹏：大锤</p>
+<p>程鸣：刀斧手</p>
+<p>曹岩磊：弃子大师</p>
+<p>陆伟韬：帽子哥</p>
+<p>赵玮：炸蛇、咋舌</p>
+<p>孙浩宇：孙大刀</p>
+<p>金波：大力神</p>
+<p>刘忆慈：刘仙人</p>
+<p>李义庭：小神童</p>
+<p>蔡福如：小霸王、羊城小霸王  </p>
+<p>徐天利：双枪将</p>
+<p>李雪松：金钟罩、铁布衫、防守专家</p>
+<p>刘殿忠：北昆仑</p>
+<p>孟立国：杀象能手</p>
+<p>陈孝堃：小诸葛、飞刀兵工厂</p>
+<p>苗永鹏：苗大侠</p>
+<p>谢业枧：顺炮王子</p>
+<p>谢岿：顺炮小王子</p>
+<p>王斌：江南才俊 </p>
+<p>庄玉庭：十轮王、怪刀手                      </p>
+<p>万春林：沪上姜维、阿凡提</p>
+<p>钱洪发：西北棋王 </p>
+<p>李曰纯：橡皮糖</p>
+<p>宗永生：牛皮糖</p>
+<p>周小平：江湖彩霸、大胡子</p>
+<p>臧如意：妙着大师</p>
+<p>宋国强：小三毛</p>
+<p>戴荣光：江东小霸王 </p>
+<p>陈富杰：老怪</p>
+<p>何连生：醉侠</p>
+<p>郭长顺：铁门李富胜</p>
+<p>黄仕清：野战司令</p>
+<p>张申宏：张军长</p>
+<p>刘宗泽：刘师长</p>
+<p>连泽特：连长</p>
+<p>薛文强：天山剑</p>
+<p>于红木：飞刀大将军</p>
+<p>宗永生：牛皮糖</p>
+<p>李鸿嘉：三个火枪手</p>
+<p>刘俊达：棋谱打印机</p>
+<p>陈栋：皮鞋大师</p>
+<p>邬正伟：铁四台</p>
+<p>杨德琪：杨仙人</p>
+<p>孟繁睿：小魔童</p>
+<p>马宽：和棋马</p>
+<p>金松：完颜松</p>
+<p>女子象棋特大和象棋大师雅号、外号或绰号：</p>
+<p>唐丹：超级丹</p>
+<p>胡明：女版胡司令、六冠王</p>
+<p>张国凤：红颜杀手</p>
+<p>时凤兰：中山不败</p>
+<p>梁妍婷：象棋一枝花</p>
+<p>唐思楠：安吉玉麒麟</p>
+<p>刚秋英：小刚炮</p>
+<p>文静：白娘子</p>
+<p>左文静：棋坛左冷禅</p>
+<p>何媛：淘气</p>
+<p>单欣：给九一上课的单老师 </p>
+<p>张婷婷: 顺炮公主</p>
+<p>作者：烂柯神机2023 <a href="https://www.bilibili.com/read/cv20956069/">https://www.bilibili.com/read/cv20956069/</a> 出处：bilibili</p>
+<h2 id="重拾棋谱-，-成败悟道"><a href="#重拾棋谱-，-成败悟道" class="headerlink" title="重拾棋谱 ， 成败悟道"></a>重拾棋谱 ， 成败悟道</h2>]]></content>
+      <tags>
+        <tag>象棋</tag>
+        <tag>趣</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/16107.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>hello world!</tag>
       </tags>
   </entry>
 </search>

@@ -155,6 +155,109 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/posts/16107.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>hello world!</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PS工具</title>
+    <url>/posts/52117.html</url>
+    <content><![CDATA[<p>快速入门</p>
+<span id="more"></span>
+<h2 id="tools"><a href="#tools" class="headerlink" title="tools"></a>tools</h2><blockquote>
+<p>移动  选框   套索  选择  裁剪  图框   吸管  修复  画笔  印章  历史画笔  橡皮擦  渐变喷桶  模糊<br>减淡  钢笔  文字  路径选择  矩形  抓手  旋转  缩放   </p>
+</blockquote>
+<h3 id="移动-V"><a href="#移动-V" class="headerlink" title="移动   V"></a>移动   V</h3><p>&#x3D;&#x3D;右键&#x3D;&#x3D;</p>
+<p>移动</p>
+<p>画板</p>
+<h3 id="选框-M"><a href="#选框-M" class="headerlink" title="选框  M"></a>选框  M</h3><p>矩形</p>
+<p>椭圆</p>
+<p>单行</p>
+<p>单列</p>
+<h3 id="套索-L"><a href="#套索-L" class="headerlink" title="套索  L"></a>套索  L</h3><p>套索</p>
+<p>多边形</p>
+<p>磁性</p>
+<h3 id="选择-W"><a href="#选择-W" class="headerlink" title="选择  W"></a>选择  W</h3><p>对象</p>
+<p>快速</p>
+<p>魔棒</p>
+<h3 id="裁剪-C"><a href="#裁剪-C" class="headerlink" title="裁剪  C"></a>裁剪  C</h3><p>裁剪</p>
+<p>透视裁剪</p>
+<p>切片</p>
+<p>切片选择</p>
+<h3 id="图框-K"><a href="#图框-K" class="headerlink" title="图框  K"></a>图框  K</h3><h3 id="吸管-I"><a href="#吸管-I" class="headerlink" title="吸管  I"></a>吸管  I</h3><p>吸管</p>
+<p>3D 材质</p>
+<p>颜色取样器</p>
+<p>标尺</p>
+<p>注释</p>
+<p>计数</p>
+<h3 id="修复-移除-J"><a href="#修复-移除-J" class="headerlink" title="修复 移除  J"></a>修复 移除  J</h3><p>污点修复画笔</p>
+<p>移除</p>
+<p>修复画笔</p>
+<p>修补</p>
+<p>内容感知移动</p>
+<p>红眼</p>
+<h3 id="画笔-B"><a href="#画笔-B" class="headerlink" title="画笔  B"></a>画笔  B</h3><p>画笔</p>
+<p>铅笔</p>
+<p>颜色替换</p>
+<p>混合器画笔</p>
+<h3 id="仿制印章-S"><a href="#仿制印章-S" class="headerlink" title="仿制印章  S"></a>仿制印章  S</h3><p>仿制印章</p>
+<p>图案图章</p>
+<h3 id="历史记录画笔-Y"><a href="#历史记录画笔-Y" class="headerlink" title="历史记录画笔  Y"></a>历史记录画笔  Y</h3><p>历史记录画笔</p>
+<p>历史记录艺术画笔</p>
+<h3 id="橡皮擦-E"><a href="#橡皮擦-E" class="headerlink" title="橡皮擦  E"></a>橡皮擦  E</h3><p>橡皮擦</p>
+<p>背景橡皮擦</p>
+<p>魔术橡皮擦</p>
+<h3 id="渐变-G"><a href="#渐变-G" class="headerlink" title="渐变  G"></a>渐变  G</h3><p>油漆桶</p>
+<p>渐变</p>
+<p>3D 材质拖放</p>
+<h3 id="模糊"><a href="#模糊" class="headerlink" title="模糊"></a>模糊</h3><p>模糊</p>
+<p>锐化</p>
+<p>涂抹</p>
+<h3 id="减淡-O"><a href="#减淡-O" class="headerlink" title="减淡  O"></a>减淡  O</h3><p>减淡</p>
+<p>加速</p>
+<p>海绵</p>
+<h3 id="钢笔-P"><a href="#钢笔-P" class="headerlink" title="钢笔  P"></a>钢笔  P</h3><p>钢笔</p>
+<p>自由钢笔</p>
+<p>弯度钢笔</p>
+<p>添加锚点</p>
+<p>删除锚点</p>
+<p>转换点</p>
+<h3 id="文字-T"><a href="#文字-T" class="headerlink" title="文字  T"></a>文字  T</h3><p>横排文字</p>
+<p>直排文字</p>
+<p>直排文字蒙版</p>
+<p>横排文字蒙版</p>
+<h3 id="路径选择-A"><a href="#路径选择-A" class="headerlink" title="路径选择  A"></a>路径选择  A</h3><p>路径选择</p>
+<p>直接选择</p>
+<h3 id="矩形-U"><a href="#矩形-U" class="headerlink" title="矩形  U"></a>矩形  U</h3><p>矩形</p>
+<p>椭圆</p>
+<p>三角形</p>
+<p>多边形</p>
+<p>直线</p>
+<p>自定形状</p>
+<h3 id="抓手-H-旋转视图-R"><a href="#抓手-H-旋转视图-R" class="headerlink" title="抓手  H    旋转视图  R"></a>抓手  H    旋转视图  R</h3><h3 id="缩放-Z"><a href="#缩放-Z" class="headerlink" title="缩放  Z"></a>缩放  Z</h3>]]></content>
+      <tags>
+        <tag>ps</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>与棋之缘(中国象棋)</title>
     <url>/posts/2458.html</url>
     <content><![CDATA[<p>棋樂无穷</p>
@@ -281,109 +384,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PS工具</title>
-    <url>/posts/52117.html</url>
-    <content><![CDATA[<p>快速入门</p>
-<span id="more"></span>
-<h2 id="tools"><a href="#tools" class="headerlink" title="tools"></a>tools</h2><blockquote>
-<p>移动  选框   套索  选择  裁剪  图框   吸管  修复  画笔  印章  历史画笔  橡皮擦  渐变喷桶  模糊<br>减淡  钢笔  文字  路径选择  矩形  抓手  旋转  缩放   </p>
-</blockquote>
-<h3 id="移动-V"><a href="#移动-V" class="headerlink" title="移动   V"></a>移动   V</h3><p>&#x3D;&#x3D;右键&#x3D;&#x3D;</p>
-<p>移动</p>
-<p>画板</p>
-<h3 id="选框-M"><a href="#选框-M" class="headerlink" title="选框  M"></a>选框  M</h3><p>矩形</p>
-<p>椭圆</p>
-<p>单行</p>
-<p>单列</p>
-<h3 id="套索-L"><a href="#套索-L" class="headerlink" title="套索  L"></a>套索  L</h3><p>套索</p>
-<p>多边形</p>
-<p>磁性</p>
-<h3 id="选择-W"><a href="#选择-W" class="headerlink" title="选择  W"></a>选择  W</h3><p>对象</p>
-<p>快速</p>
-<p>魔棒</p>
-<h3 id="裁剪-C"><a href="#裁剪-C" class="headerlink" title="裁剪  C"></a>裁剪  C</h3><p>裁剪</p>
-<p>透视裁剪</p>
-<p>切片</p>
-<p>切片选择</p>
-<h3 id="图框-K"><a href="#图框-K" class="headerlink" title="图框  K"></a>图框  K</h3><h3 id="吸管-I"><a href="#吸管-I" class="headerlink" title="吸管  I"></a>吸管  I</h3><p>吸管</p>
-<p>3D 材质</p>
-<p>颜色取样器</p>
-<p>标尺</p>
-<p>注释</p>
-<p>计数</p>
-<h3 id="修复-移除-J"><a href="#修复-移除-J" class="headerlink" title="修复 移除  J"></a>修复 移除  J</h3><p>污点修复画笔</p>
-<p>移除</p>
-<p>修复画笔</p>
-<p>修补</p>
-<p>内容感知移动</p>
-<p>红眼</p>
-<h3 id="画笔-B"><a href="#画笔-B" class="headerlink" title="画笔  B"></a>画笔  B</h3><p>画笔</p>
-<p>铅笔</p>
-<p>颜色替换</p>
-<p>混合器画笔</p>
-<h3 id="仿制印章-S"><a href="#仿制印章-S" class="headerlink" title="仿制印章  S"></a>仿制印章  S</h3><p>仿制印章</p>
-<p>图案图章</p>
-<h3 id="历史记录画笔-Y"><a href="#历史记录画笔-Y" class="headerlink" title="历史记录画笔  Y"></a>历史记录画笔  Y</h3><p>历史记录画笔</p>
-<p>历史记录艺术画笔</p>
-<h3 id="橡皮擦-E"><a href="#橡皮擦-E" class="headerlink" title="橡皮擦  E"></a>橡皮擦  E</h3><p>橡皮擦</p>
-<p>背景橡皮擦</p>
-<p>魔术橡皮擦</p>
-<h3 id="渐变-G"><a href="#渐变-G" class="headerlink" title="渐变  G"></a>渐变  G</h3><p>油漆桶</p>
-<p>渐变</p>
-<p>3D 材质拖放</p>
-<h3 id="模糊"><a href="#模糊" class="headerlink" title="模糊"></a>模糊</h3><p>模糊</p>
-<p>锐化</p>
-<p>涂抹</p>
-<h3 id="减淡-O"><a href="#减淡-O" class="headerlink" title="减淡  O"></a>减淡  O</h3><p>减淡</p>
-<p>加速</p>
-<p>海绵</p>
-<h3 id="钢笔-P"><a href="#钢笔-P" class="headerlink" title="钢笔  P"></a>钢笔  P</h3><p>钢笔</p>
-<p>自由钢笔</p>
-<p>弯度钢笔</p>
-<p>添加锚点</p>
-<p>删除锚点</p>
-<p>转换点</p>
-<h3 id="文字-T"><a href="#文字-T" class="headerlink" title="文字  T"></a>文字  T</h3><p>横排文字</p>
-<p>直排文字</p>
-<p>直排文字蒙版</p>
-<p>横排文字蒙版</p>
-<h3 id="路径选择-A"><a href="#路径选择-A" class="headerlink" title="路径选择  A"></a>路径选择  A</h3><p>路径选择</p>
-<p>直接选择</p>
-<h3 id="矩形-U"><a href="#矩形-U" class="headerlink" title="矩形  U"></a>矩形  U</h3><p>矩形</p>
-<p>椭圆</p>
-<p>三角形</p>
-<p>多边形</p>
-<p>直线</p>
-<p>自定形状</p>
-<h3 id="抓手-H-旋转视图-R"><a href="#抓手-H-旋转视图-R" class="headerlink" title="抓手  H    旋转视图  R"></a>抓手  H    旋转视图  R</h3><h3 id="缩放-Z"><a href="#缩放-Z" class="headerlink" title="缩放  Z"></a>缩放  Z</h3>]]></content>
-      <tags>
-        <tag>ps</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/16107.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <tags>
-        <tag>hello world!</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《象棋布局飞刀》</title>
     <url>/posts/32825.html</url>
     <content><![CDATA[<p>《象棋布局飞刀》 - 葛维蒲</p>
@@ -395,8 +395,8 @@
 <p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8f0e1i8d8h0h6d8d1b0a2d1b1a0b0b1b0a2b0b7b0h6g6g7i8e2e6d9e8b2b8">第四局  红上右仕  黑横车占肋(红弃马取势)</a></p>
 <p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9c7c3c4a9a8b2b4a8c8a0a2e6e5c2d4c6c5e2d2e5e4d2d8e4d4g0e2c8d8c4c5d4d3f0e1d3e3">第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】</a></p>
 <p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2b9c7g3g4i8d8c3c4a9a8d0e1a8c8g2f4c6c5c4c5c7d5f4d5c8c5d5e7c5c2h0h2d9e8e7g8e9d9e2d2d8c8b2b4">第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b2d2b9c7b0c2a9b9a0b0b7b3d2d7i8g8h0h6g7i8h6h4g8d8d7d4c6c5d4b4d8d2b0b3d2c2h4h8b9b5h8i8c5c4c3c4c2c4i8c8">第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9a7d0e1b7c7a0b0d8d4e2f2d4g4g2h4a9b9b2b6d9e8c0e2g4g5h4i6g7i6h0h6e7g7b6e6c9e7b0b9a7b9h6i6g5g0e6a6c6c5i6i4g0g5i4b4b9a7a6e6g5e5b4e4e5d5c3c4g7h7f2h2g6g5">第八局  红五六炮正马  黑正马(红巧谋黑子)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4d8d3g2f4d3d4f4e6g7e6e2e6d9e8c0e2i6i5b2b9a9b9a0b0b7b3d0e1d4d3h0h5d3c3h5d5c3c2e0d0c9a7b0b3b9c9b3d3c2b2d5d9c9d9d3d9">第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b2d2b9c7b0c2a9b9a0b0b7b3d2d7i8g8h0h6g7i8h6h4g8d8d7d4c6c5d4b4d8d2b0b3d2c2h4h8b9b5h8i8c5c4c3c4c2c4i8c8">第八局  红五六炮正马  黑正马(红巧谋黑子)</a></p>
 <p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9a7d0e1b7c7a0b0d8d4e2f2d4g4g2h4a9b9b2b6d9e8c0e2g4g5h4i6g7i6h0h6e7g7b6e6c9e7b0b9a7b9h6i6g5g0e6a6c6c5i6i4g0g5i4b4b9a7a6e6g5e5b4e4e5d5c3c4g7h7f2h2g6g5">第九局  红正马进三兵  黑边马(黑运子取势)</a></p>
 <h3 id="第二章-顺炮横车对直车"><a href="#第二章-顺炮横车对直车" class="headerlink" title="第二章 顺炮横车对直车"></a>第二章 顺炮横车对直车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2b9c7b2b4c6c5d1d6c9a7b4e4c7d5e4e7g9e7a0b0b7c7b0b7a9c9e3e4d9e8e4e5d5c3d6d3h5e5c2e3e5h5d0e1c5c4e3d5">第10局 红正马巡河炮 黑正马巡河车(红兑子取势)</a></p>
 <p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2f9e8g3g4b9a7a3a4b7d7a0b0a6a5a4a5h5a5b2a2a9b9a2a7b9b0a7e7g9e7c2b0">第11局 红正马进三兵 黑巡河车上左士(红巧谋黑子)</a></p>

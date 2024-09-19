@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/posts/16107.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>hello world!</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>与棋之缘(中国象棋)</title>
+    <url>/posts/2458.html</url>
+    <content><![CDATA[<p>棋樂无穷</p>
+<span id="more"></span>
+<h2 id="杂记"><a href="#杂记" class="headerlink" title="杂记"></a>杂记</h2><embed src='https://xqipu.bj.bcebos.com/5c9a0b11-cd1b-4bf2-8b1b-b9dc68f2ef73.svg' width='100%' style='max-width:360px' type='image/svg+xml'/>
+
+
+<h2 id="下"><a href="#下" class="headerlink" title="下"></a>下</h2>]]></content>
+      <tags>
+        <tag>趣</tag>
+        <tag>象棋</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用Git上传项目到github仓库</title>
     <url>/posts/58956.html</url>
     <content><![CDATA[<p>Git 是一个免费的开源 分布式版本控制系统，旨在快速高效地处理从小型到大型的所有项目。</p>
@@ -155,26 +192,30 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/16107.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <title>《象棋布局飞刀》</title>
+    <url>/posts/32825.html</url>
+    <content><![CDATA[<p>《象棋布局飞刀》 - 葛维蒲</p>
 <span id="more"></span>
 
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+<h1 id="象棋布局飞刀"><a href="#象棋布局飞刀" class="headerlink" title="象棋布局飞刀"></a>象棋布局飞刀</h1><h2 id="顺炮类-共20局"><a href="#顺炮类-共20局" class="headerlink" title="顺炮类(共20局)"></a>顺炮类(共20局)</h2><h3 id="第一章-顺炮直车对横车"><a href="#第一章-顺炮直车对横车" class="headerlink" title="第一章 顺炮直车对横车"></a>第一章 顺炮直车对横车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8h0h6i8d8h6g6d8d1b0c2e7d7b2b4d1d4c3c4d4c4b4a4b9a7a0b0b7c7c2b4c4c0b4a6c0b0a6c7a7b5g6g7c9e7e2e6d9e8a4g4g9i7g7i7a9a7g4g9">第一局  红过河车  黑进肋车捉炮(红弃车入局)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0a2b9a7b2c2i8d8a0b0a9b9h0h6a6a5h6g6d8d5g3g4a7b5c2b2b7b2b0b2e7b7g2f4d5f5g4g5b7b2g5f5b9b7f4h5">第二局  红边马  黑边马(红运子取势)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0a2b9c7b2c2a9b9c3c4i8d8c4c5e6e5c5d5d8d5c2c7g7e6c7c8b7b2c8i8b2g2h0h2g2a2a0a2e6c5f0e1b9b8i8i9b8f8">第三局  红边马  黑正马(黑先弃后取)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8f0e1i8d8h0h6d8d1b0a2d1b1a0b0b1b0a2b0b7b0h6g6g7i8e2e6d9e8b2b8">第四局  红上右仕  黑横车占肋(红弃马取势)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9c7c3c4a9a8b2b4a8c8a0a2e6e5c2d4c6c5e2d2e5e4d2d8e4d4g0e2c8d8c4c5d4d3f0e1d3e3">第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2b9c7g3g4i8d8c3c4a9a8d0e1a8c8g2f4c6c5c4c5c7d5f4d5c8c5d5e7c5c2h0h2d9e8e7g8e9d9e2d2d8c8b2b4">第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4d8d3g2f4d3d4f4e6g7e6e2e6d9e8c0e2i6i5b2b9a9b9a0b0b7b3d0e1d4d3h0h5d3c3h5d5c3c2e0d0c9a7b0b3b9c9b3d3c2b2d5d9c9d9d3d9">第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b2d2b9c7b0c2a9b9a0b0b7b3d2d7i8g8h0h6g7i8h6h4g8d8d7d4c6c5d4b4d8d2b0b3d2c2h4h8b9b5h8i8c5c4c3c4c2c4i8c8">第八局  红五六炮正马  黑正马(红巧谋黑子)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9a7d0e1b7c7a0b0d8d4e2f2d4g4g2h4a9b9b2b6d9e8c0e2g4g5h4i6g7i6h0h6e7g7b6e6c9e7b0b9a7b9h6i6g5g0e6a6c6c5i6i4g0g5i4b4b9a7a6e6g5e5b4e4e5d5c3c4g7h7f2h2g6g5">第九局  红正马进三兵  黑边马(黑运子取势)</a></p>
+<h3 id="第二章-顺炮横车对直车"><a href="#第二章-顺炮横车对直车" class="headerlink" title="第二章 顺炮横车对直车"></a>第二章 顺炮横车对直车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2b9c7b2b4c6c5d1d6c9a7b4e4c7d5e4e7g9e7a0b0b7c7b0b7a9c9e3e4d9e8e4e5d5c3d6d3h5e5c2e3e5h5d0e1c5c4e3d5">第10局 红正马巡河炮 黑正马巡河车(红兑子取势)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2f9e8g3g4b9a7a3a4b7d7a0b0a6a5a4a5h5a5b2a2a9b9a2a7b9b0a7e7g9e7c2b0">第11局 红正马进三兵 黑巡河车上左士(红巧谋黑子)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2f9e8d1d8b9a7c3c4b7d7c2b4h5d5a0a1d5d3c4c5d3b3b4d5b3b2a1f1c6c5f1f8a7c6d5f6c6d8f6g8b2e2g0e2e8f7f8d8e9f9d8d9f9f8d9d7a9b9g3g4e7e8f0e1e8g8e0f0">第12局 红横车占肋 黑上左士(红弃马取势)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1b9a7d1d7b7b5d7d5a6a5b0c2b5c5b2b7c5c2b7g7c2g2e2e6f9e8a0a2g2h2a2d2e9f9d5d9f9f8d9d8e7f7e6f6f7e7d0e1a9b9f6f1">第13局 红横车占肋 黑边马(红弃马入局)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1f9e8d1d8b9a7a3a4h9h3b0a2h3g3a0a1b7b5a1f1b5g5a2b4g5g2b2b1e7e3b1e1e3e1b4d5g3h3f0e1h3h8e0f0g2g5f1f5g5g3e2e3">第14局 红横车占肋 黑上左士(红弃马取势)</a></p>
+<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1d9e8d1d8b9a7c3c4h9h3b0c2h3g3c2d4g6g5d4c6b7d7c6e7g9e7b2b7g7f5e2e6g3g2e6g6g2b2b7e7f5e7g6g9">第15局 红横车占肋 黑上右士(红弃子入局)</a></p>
+<h3 id="第三章-顺炮直车对缓开车"><a href="#第三章-顺炮直车对缓开车" class="headerlink" title="第三章 顺炮直车对缓开车"></a>第三章 顺炮直车对缓开车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0g6g5c3c4b9c7b2c2c9a7b0a2b7b3c4c5a7c5a2c3i9i8c3d5a9c9g3g4g5g4a0b0i8b8c2c1g7f5h0h5f5d4h5g5b8d8e2d2g4g3c1d1d4f3g5g9d8h8b0b3g3g2g9g2c9b9b3d3">第16局 红进七兵平七炮 黑进7卒正马(红弃兵抢先)</a></p>
+<h3 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h3>]]></content>
       <tags>
-        <tag>hello world!</tag>
+        <tag>象棋</tag>
       </tags>
   </entry>
   <entry>
@@ -255,159 +296,6 @@
 <h3 id="抓手-H-旋转视图-R"><a href="#抓手-H-旋转视图-R" class="headerlink" title="抓手  H    旋转视图  R"></a>抓手  H    旋转视图  R</h3><h3 id="缩放-Z"><a href="#缩放-Z" class="headerlink" title="缩放  Z"></a>缩放  Z</h3>]]></content>
       <tags>
         <tag>ps</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>与棋之缘(中国象棋)</title>
-    <url>/posts/2458.html</url>
-    <content><![CDATA[<p>棋樂无穷</p>
-<span id="more"></span>
-<h2 id="杂记"><a href="#杂记" class="headerlink" title="杂记"></a>杂记</h2><p>上大学前我基本上只有电视这一电子设备可看。</p>
-<p>动画片，影视，cctv，很多栏目早已看过多次。</p>
-<p>后来，装了有线，不是锅子了。</p>
-<p>多了几个频道，我开始看游戏频道，和棋牌频道</p>
-<p>游戏频道中算是让我看清了一些游戏，如：杀戮尖塔，守望先锋，300，刀塔……</p>
-<p>我非常痴迷，棋牌频道中中国象棋的竞技</p>
-<p>认识到了一些大师的名号(贴于文章末)</p>
-<p>整上了一盒象棋，摆上跟着推演乐在其中<br>跟学到了走棋的叫法：炮二平五，马八进七……</p>
-<p>上大学了,学习计算机知识，我沉迷其中，探索各种技术，软件，参加竞赛等，不闻棋道。</p>
-<p>大二暑假，与表弟准四年级摆上棋局，叫他菜就多练。</p>
-<p>棋局结束，我在抖音刷到了象棋解说，十分激动。</p>
-<p>关注了喜爱的特级大师 少年姜子牙，许仙，许银川。</p>
-<p>老武  ， 大板牙子 这样有活的解说<br>“ 你猜怎么着？进屋看看就知道了  棋局伊始，双方各自点上大前门 当场妈糊稀  那是娇躯一颤啊  掀翻棋盘，拂袖而去”</p>
-<p>板牙淋漓的解说</p>
-<p>不凡，仙居….解说</p>
-<p>还有很多高手</p>
-<p>我又开始对象棋越发的痴迷，在电脑上找到了很多棋谱网站，如象棋谱，永乐象棋谱，南山象棋谱，</p>
-<embed src='https://xqipu.bj.bcebos.com/5c9a0b11-cd1b-4bf2-8b1b-b9dc68f2ef73.svg' width='100%' style='max-width:360px' type='image/svg+xml'/>
-
-<p>学了计算机，对棋软软件也格外感兴趣，知道了，皮卡鱼，旋风还有各种其他引擎</p>
-<p>用皮卡鱼,鲨鱼象棋来记谱</p>
-<p>皮卡鱼官网中说明使用到的min-max算法还有AB剪枝</p>
-<p>刷到象棋，也特别感谢当时比较火的凡人修仙传，虽然没看过，因为在B站，我经常在腾讯的动漫。</p>
-<p>引用<br>吾幼时好棋，名震乡野， 人皆谓神童，年岁稍长，遇一山野老道，三天对弈，终得一胜，老道愿赌服输，施展法术，通天遁地，吾顿生神往，遂弃棋修道，然吾天赋一般，只求兢兢业业苦心钻研，不惜远家人、抛爱侣、弃友人、漂泊四海无所依绊，几经险境，半生贫苦，老来方有定所，可惜时日无多，近来常思，人生百年，蜉蝣一日，长生与我何有哉，不过又入樊笼尔，不若二三好友奕棋饮酒，良缘佳侣，人间携手，风光百年，同归尘土，然吾问道之心终归难改，纵使蹉跎一生，也要争那一线天机，只因幼时便知，人生如棋，落子无悔！-《凡人修仙传》</p>
-<h2 id="名号"><a href="#名号" class="headerlink" title="名号"></a>名号</h2><p>男子象棋特大和象棋大师雅号、外号或绰号：</p>
-<p>胡荣华：胡司令、棋坛常青树、棋坛不死鸟</p>
-<p>杨官璘：东方魔叔、魔叔、残棋圣手、混世魔王</p>
-<p>许银川：少年姜太公、许仙、鬼魅残功</p>
-<p>吕钦：羊城少帅、小吕飞刀、快马飞刀</p>
-<p>赵国荣：东北虎、推土机</p>
-<p>李来群：智多星、巨蟒缠身</p>
-<p>柳大华：东方电脑、楚霸王</p>
-<p>王天一：外星人</p>
-<p>郑惟桐：蜀山少侠</p>
-<p>王嘉良：东北虎 </p>
-<p>蒋川：玉面神佛、校长、棋坛韩红</p>
-<p>洪智：洪天王、乱战天王、流浪棋王</p>
-<p>汪洋：白面书生</p>
-<p>赵鑫鑫：赵六金、六脉神剑</p>
-<p>谢靖：小司令、谢和和</p>
-<p>孙勇征：棋天大圣</p>
-<p>徐天红：笑面佛、笑面虎</p>
-<p>于幼华：拼命三郎</p>
-<p>陶汉明：长白虎、陶公子</p>
-<p>刘殿中：北昆仑、五七干校校长</p>
-<p>徐超：姑苏飞鹰</p>
-<p>卜凤波：辽东第一高手、爱兵模范</p>
-<p>傅光明：慢国手</p>
-<p>阎文清：布局专家、布局圣手</p>
-<p>苗利明：上士哥、燕赵小龙</p>
-<p>刘明：火钳</p>
-<p>程进超：江湖妖刀</p>
-<p>郝继超：龙江大郎</p>
-<p>黄竹风：虎贲少将</p>
-<p>赵金成：功夫熊猫</p>
-<p>申鹏：大锤</p>
-<p>程鸣：刀斧手</p>
-<p>曹岩磊：弃子大师</p>
-<p>陆伟韬：帽子哥</p>
-<p>赵玮：炸蛇、咋舌</p>
-<p>孙浩宇：孙大刀</p>
-<p>金波：大力神</p>
-<p>刘忆慈：刘仙人</p>
-<p>李义庭：小神童</p>
-<p>蔡福如：小霸王、羊城小霸王  </p>
-<p>徐天利：双枪将</p>
-<p>李雪松：金钟罩、铁布衫、防守专家</p>
-<p>刘殿忠：北昆仑</p>
-<p>孟立国：杀象能手</p>
-<p>陈孝堃：小诸葛、飞刀兵工厂</p>
-<p>苗永鹏：苗大侠</p>
-<p>谢业枧：顺炮王子</p>
-<p>谢岿：顺炮小王子</p>
-<p>王斌：江南才俊 </p>
-<p>庄玉庭：十轮王、怪刀手                      </p>
-<p>万春林：沪上姜维、阿凡提</p>
-<p>钱洪发：西北棋王 </p>
-<p>李曰纯：橡皮糖</p>
-<p>宗永生：牛皮糖</p>
-<p>周小平：江湖彩霸、大胡子</p>
-<p>臧如意：妙着大师</p>
-<p>宋国强：小三毛</p>
-<p>戴荣光：江东小霸王 </p>
-<p>陈富杰：老怪</p>
-<p>何连生：醉侠</p>
-<p>郭长顺：铁门李富胜</p>
-<p>黄仕清：野战司令</p>
-<p>张申宏：张军长</p>
-<p>刘宗泽：刘师长</p>
-<p>连泽特：连长</p>
-<p>薛文强：天山剑</p>
-<p>于红木：飞刀大将军</p>
-<p>宗永生：牛皮糖</p>
-<p>李鸿嘉：三个火枪手</p>
-<p>刘俊达：棋谱打印机</p>
-<p>陈栋：皮鞋大师</p>
-<p>邬正伟：铁四台</p>
-<p>杨德琪：杨仙人</p>
-<p>孟繁睿：小魔童</p>
-<p>马宽：和棋马</p>
-<p>金松：完颜松</p>
-<p>女子象棋特大和象棋大师雅号、外号或绰号：</p>
-<p>唐丹：超级丹</p>
-<p>胡明：女版胡司令、六冠王</p>
-<p>张国凤：红颜杀手</p>
-<p>时凤兰：中山不败</p>
-<p>梁妍婷：象棋一枝花</p>
-<p>唐思楠：安吉玉麒麟</p>
-<p>刚秋英：小刚炮</p>
-<p>文静：白娘子</p>
-<p>左文静：棋坛左冷禅</p>
-<p>何媛：淘气</p>
-<p>单欣：给九一上课的单老师 </p>
-<p>张婷婷: 顺炮公主</p>
-<p>作者：烂柯神机2023 <a href="https://www.bilibili.com/read/cv20956069/">https://www.bilibili.com/read/cv20956069/</a> 出处：bilibili</p>
-<h2 id="重拾棋谱-，-成败悟道"><a href="#重拾棋谱-，-成败悟道" class="headerlink" title="重拾棋谱 ， 成败悟道"></a>重拾棋谱 ， 成败悟道</h2>]]></content>
-      <tags>
-        <tag>趣</tag>
-        <tag>象棋</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《象棋布局飞刀》</title>
-    <url>/posts/32825.html</url>
-    <content><![CDATA[<p>《象棋布局飞刀》 - 葛维蒲</p>
-<span id="more"></span>
-
-<h1 id="象棋布局飞刀"><a href="#象棋布局飞刀" class="headerlink" title="象棋布局飞刀"></a>象棋布局飞刀</h1><h2 id="顺炮类-共20局"><a href="#顺炮类-共20局" class="headerlink" title="顺炮类(共20局)"></a>顺炮类(共20局)</h2><h3 id="第一章-顺炮直车对横车"><a href="#第一章-顺炮直车对横车" class="headerlink" title="第一章 顺炮直车对横车"></a>第一章 顺炮直车对横车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8h0h6i8d8h6g6d8d1b0c2e7d7b2b4d1d4c3c4d4c4b4a4b9a7a0b0b7c7c2b4c4c0b4a6c0b0a6c7a7b5g6g7c9e7e2e6d9e8a4g4g9i7g7i7a9a7g4g9">第一局  红过河车  黑进肋车捉炮(红弃车入局)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0a2b9a7b2c2i8d8a0b0a9b9h0h6a6a5h6g6d8d5g3g4a7b5c2b2b7b2b0b2e7b7g2f4d5f5g4g5b7b2g5f5b9b7f4h5">第二局  红边马  黑边马(红运子取势)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0a2b9c7b2c2a9b9c3c4i8d8c4c5e6e5c5d5d8d5c2c7g7e6c7c8b7b2c8i8b2g2h0h2g2a2a0a2e6c5f0e1b9b8i8i9b8f8">第三局  红边马  黑正马(黑先弃后取)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8f0e1i8d8h0h6d8d1b0a2d1b1a0b0b1b0a2b0b7b0h6g6g7i8e2e6d9e8b2b8">第四局  红上右仕  黑横车占肋(红弃马取势)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9c7c3c4a9a8b2b4a8c8a0a2e6e5c2d4c6c5e2d2e5e4d2d8e4d4g0e2c8d8c4c5d4d3f0e1d3e3">第五局  红直车正马两头蛇  黑双横车正马(一)【黑兑子抢先】</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2b9c7g3g4i8d8c3c4a9a8d0e1a8c8g2f4c6c5c4c5c7d5f4d5c8c5d5e7c5c2h0h2d9e8e7g8e9d9e2d2d8c8b2b4">第六局  红直车正马两头蛇  黑双横车正马(二)【红巧谋黑子】</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4d8d3g2f4d3d4f4e6g7e6e2e6d9e8c0e2i6i5b2b9a9b9a0b0b7b3d0e1d4d3h0h5d3c3h5d5c3c2e0d0c9a7b0b3b9c9b3d3c2b2d5d9c9d9d3d9">第七局  红直车正马进三兵  黑肋车占兵线(红”三把手”做杀)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b2d2b9c7b0c2a9b9a0b0b7b3d2d7i8g8h0h6g7i8h6h4g8d8d7d4c6c5d4b4d8d2b0b3d2c2h4h8b9b5h8i8c5c4c3c4c2c4i8c8">第八局  红五六炮正马  黑正马(红巧谋黑子)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0i9i8b0c2i8d8g3g4b9a7d0e1b7c7a0b0d8d4e2f2d4g4g2h4a9b9b2b6d9e8c0e2g4g5h4i6g7i6h0h6e7g7b6e6c9e7b0b9a7b9h6i6g5g0e6a6c6c5i6i4g0g5i4b4b9a7a6e6g5e5b4e4e5d5c3c4g7h7f2h2g6g5">第九局  红正马进三兵  黑边马(黑运子取势)</a></p>
-<h3 id="第二章-顺炮横车对直车"><a href="#第二章-顺炮横车对直车" class="headerlink" title="第二章 顺炮横车对直车"></a>第二章 顺炮横车对直车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2b9c7b2b4c6c5d1d6c9a7b4e4c7d5e4e7g9e7a0b0b7c7b0b7a9c9e3e4d9e8e4e5d5c3d6d3h5e5c2e3e5h5d0e1c5c4e3d5">第10局 红正马巡河炮 黑正马巡河车(红兑子取势)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2f9e8g3g4b9a7a3a4b7d7a0b0a6a5a4a5h5a5b2a2a9b9a2a7b9b0a7e7g9e7c2b0">第11局 红正马进三兵 黑巡河车上左士(红巧谋黑子)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1h9h5b0c2f9e8d1d8b9a7c3c4b7d7c2b4h5d5a0a1d5d3c4c5d3b3b4d5b3b2a1f1c6c5f1f8a7c6d5f6c6d8f6g8b2e2g0e2e8f7f8d8e9f9d8d9f9f8d9d7a9b9g3g4e7e8f0e1e8g8e0f0">第12局 红横车占肋 黑上左士(红弃马取势)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1b9a7d1d7b7b5d7d5a6a5b0c2b5c5b2b7c5c2b7g7c2g2e2e6f9e8a0a2g2h2a2d2e9f9d5d9f9f8d9d8e7f7e6f6f7e7d0e1a9b9f6f1">第13局 红横车占肋 黑边马(红弃马入局)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1f9e8d1d8b9a7a3a4h9h3b0a2h3g3a0a1b7b5a1f1b5g5a2b4g5g2b2b1e7e3b1e1e3e1b4d5g3h3f0e1h3h8e0f0g2g5f1f5g5g3e2e3">第14局 红横车占肋 黑上左士(红弃马取势)</a></p>
-<p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0i1i9h9i1d1d9e8d1d8b9a7c3c4h9h3b0c2h3g3c2d4g6g5d4c6b7d7c6e7g9e7b2b7g7f5e2e6g3g2e6g6g2b2b7e7f5e7g6g9">第15局 红横车占肋 黑上右士(红弃子入局)</a></p>
-<h3 id="第三章-顺炮直车对缓开车"><a href="#第三章-顺炮直车对缓开车" class="headerlink" title="第三章 顺炮直车对缓开车"></a>第三章 顺炮直车对缓开车</h3><p><a href="https://xiangqiai.com/#/rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR%20w%20-%20-%200%201%20moves%20h2e2h7e7h0g2h9g7i0h0g6g5c3c4b9c7b2c2c9a7b0a2b7b3c4c5a7c5a2c3i9i8c3d5a9c9g3g4g5g4a0b0i8b8c2c1g7f5h0h5f5d4h5g5b8d8e2d2g4g3c1d1d4f3g5g9d8h8b0b3g3g2g9g2c9b9b3d3">第16局 红进七兵平七炮 黑进7卒正马(红弃兵抢先)</a></p>
-<h3 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h3>]]></content>
-      <tags>
-        <tag>象棋</tag>
       </tags>
   </entry>
 </search>
